@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <director>
+        <FirstName>Nguyễn </FirstName>
+        <LastName>Thị M</LastName> 
+    </director>
+    <address>
+        <city>Ha Noi</city>
+        <District>Hoang Mai</District>
+        <Ward>Vĩnh Tuy</Ward>
+        <Street>Minh Khai</Street>
+    </address>
+    <phonnumber>0355135217</phonnumber>
+    <taxcode>0318582379</taxcode> 
+</company>
